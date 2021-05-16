@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Arreshvhina;;;
+FN: Arreshvhina Narayanan 
+ORG:Sunway Paving Solutions;
+TITLE:General Manager - Production/Technical
+EMAIL;type=INTERNET;type=WORK;type=pref:arreshvhinan@sunway.com.my
+EMAIL;type=INTERNET;type=PERSONAL;type=pref:arreshvhina@gmail.com
+TEL;type=WORK;type=VOICE:+60199893982
+item1.ADR;type=WORK;type=pref:;;Menara Sunway, #3.2, Level 3, \nJalan Lagoon Timur, Bandar Sunway\, \nPetaling Jaya, 46150, Petaling Jaya, Selangor\.
+item1.X-ABADR:Malaysia
+item2.URL;type=pref:https://www.sunwaypavingsolutions.com/
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
